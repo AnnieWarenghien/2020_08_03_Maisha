@@ -21,5 +21,7 @@ public class Movements : MonoBehaviour
 
         transform.Translate(horizontal * speed, 0, vertical * speed);
 
+        
+
     }
 }
